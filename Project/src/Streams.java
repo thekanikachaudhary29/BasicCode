@@ -29,5 +29,7 @@ public class Streams {
        List<Integer> total = s.get();
        System.out.println(total);
     }
+
+    System.out.println();
 }
 
